@@ -151,4 +151,4 @@ cython_debug/
 *.pstat
 
 # Project
-benchmark_name_diff.txt
+benchmark_diff.txt
